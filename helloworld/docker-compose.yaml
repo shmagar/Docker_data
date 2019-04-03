@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  helloworld:
+    image: shrachavan/helloworld:latest
+    ports:
+     - 5003:8080
+
+
+

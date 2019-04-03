@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  helloworld-imagecreation:
+   build: /home/shraddha_chavan2803 
+   ports:
+    - 5005:8080
+    
